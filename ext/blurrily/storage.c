@@ -4,7 +4,7 @@
 #include <assert.h>
 #include <fcntl.h>
 #include <sys/mman.h>
-#include <sys/errno.h>
+#include <errno.h>
 #include <unistd.h>
 #include <sys/stat.h>
 
